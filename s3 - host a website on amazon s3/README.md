@@ -1,4 +1,4 @@
-# Host a Website on Amazon S
+# Host a Website on Amazon S3
 
 **Author:** Kevin Carl Ricafort  
 **Email:** kevincarlricafort1@gmail.com
